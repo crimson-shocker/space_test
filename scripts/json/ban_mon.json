@@ -1,0 +1,27 @@
+{
+    "mirror": {
+        "dotvip": {
+            "with_dot": "fonbet01.vip",
+            "with_out_dot": "fonbet01_vip"
+        },
+        "actual": {
+            "with_dot": "fonbet.com",
+            "with_out_dot": "fonbet_com"
+        },
+        "test": {
+            "with_dot": "fonbet.ru",
+            "with_out_dot": "fonbet_ru"
+        },
+        "dotcom": {
+            "with_dot": "fonbet01.com",
+            "with_out_dot": "fonbet01_com"
+        }
+    },
+    "landing": {
+        "ap": "ap-11.access-fonbet.com",
+        "lp": "lp-10.fon-infosport.info",
+        "mp_for_all": "mp-02.fbmetrix.org",
+        "mp_adv": "mp-12.smartdirectpath.info",
+        "mp_int": "mp-01.smartdirectroute.co"
+    }
+}
